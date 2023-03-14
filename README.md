@@ -1,1 +1,2 @@
 # Global-Health-Expenditure-Analysis
+A global health expenditure analysis provides comparative data on health expenditure for 192 countries over the last two decades. In this project, PyCaret (Machine learning library in Python) is used for implementing clustering analysis in Power BI. Clustering involves gathering data items having similar features. These classifications aid in examining datasets, detecting patterns, and analyzing data, while data clustering assists in identifying underlying data structures.
